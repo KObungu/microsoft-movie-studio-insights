@@ -1,2 +1,2 @@
 # Microsoft-Movie-Studio-Insights
-Data-driven analysis to guide Microsoft’s decision on launching a movie studio, using box office performance, genre trends, and audience ratings.
+This project provides a data-driven assessment to support Microsoft’s decision to launch a movie studio. Using exploratory data analysis of box office performance, genre trends, and audience ratings, the analysis identifies commercially successful film categories and market opportunities. The project delivers three clear, actionable recommendations to inform film production strategy, mitigate risk, and position the new studio for sustained commercial success.
